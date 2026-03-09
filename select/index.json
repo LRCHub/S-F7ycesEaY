@@ -1,0 +1,272 @@
+{
+  "version": 1,
+  "base_track": "Plan A",
+  "base_artist": "Watson",
+  "createdAt": "2026-03-09T16:32:49.248839Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Let's Plan A Robbery",
+      "artist": "Three 6 Mafia",
+      "has_synced": false,
+      "path": "select/01_Let's_Plan_A_Robbery_Three_6_Mafia.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Let's Plan a Robbery",
+      "artist": "Three 6 Mafia",
+      "has_synced": true,
+      "path": "select/02_Let's_Plan_a_Robbery_Three_6_Mafia.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Plan A",
+      "artist": "Paulo Londra",
+      "has_synced": true,
+      "path": "select/03_Plan_A_Paulo_Londra.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Plan A",
+      "artist": "The Dandy Warhols",
+      "has_synced": false,
+      "path": "select/04_Plan_A_The_Dandy_Warhols.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Plan A",
+      "artist": "The Dandy Warhols",
+      "has_synced": true,
+      "path": "select/05_Plan_A_The_Dandy_Warhols.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "A Man. A Plan. A Canal. Panama.",
+      "artist": "The Fall of Troy",
+      "has_synced": true,
+      "path": "select/06_A_Man._A_Plan._A_Canal._Panama._The_Fall_of_Troy.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Plan A",
+      "artist": "Paulo Londra",
+      "has_synced": true,
+      "path": "select/07_Plan_A_Paulo_Londra.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "(PLAN A)",
+      "artist": "Los Campesinos!",
+      "has_synced": true,
+      "path": "select/08_(PLAN_A)_Los_Campesinos!.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Plan A",
+      "artist": "Los Campesinos!",
+      "has_synced": false,
+      "path": "select/09_Plan_A_Los_Campesinos!.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Now for Plan A",
+      "artist": "The Tragically Hip",
+      "has_synced": true,
+      "path": "select/10_Now_for_Plan_A_The_Tragically_Hip.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Plan A",
+      "artist": "Los Campesinos!",
+      "has_synced": true,
+      "path": "select/11_Plan_A_Los_Campesinos!.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Plan à trois",
+      "artist": "Cœur De Pirate",
+      "has_synced": true,
+      "path": "select/12_Plan_à_trois_Cœur_De_Pirate.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Let's Plan A Robbery [Bonus Track]",
+      "artist": "Three 6 Mafia",
+      "has_synced": true,
+      "path": "select/13_Let's_Plan_A_Robbery_[Bonus_Track]_Three_6_Mafia.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Plan à dix",
+      "artist": "Alkpote feat. Dj Weedim",
+      "has_synced": false,
+      "path": "select/14_Plan_à_dix_Alkpote_feat._Dj_Weedim.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "God's Plan",
+      "artist": "CHVRCHES",
+      "has_synced": true,
+      "path": "select/15_God's_Plan_CHVRCHES.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Five Year Plan",
+      "artist": "The Deslondes",
+      "has_synced": true,
+      "path": "select/16_Five_Year_Plan_The_Deslondes.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Time to Make a Plan (Not Getting Younger)",
+      "artist": "Kurt Travis",
+      "has_synced": true,
+      "path": "select/17_Time_to_Make_a_Plan_(Not_Getting_Younger)_Kurt_Travis.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "God's Plan",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/18_God's_Plan_Drake.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "God's Plan",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/19_God's_Plan_Drake.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Part of the Plan",
+      "artist": "Lil Tjay",
+      "has_synced": true,
+      "path": "select/20_Part_of_the_Plan_Lil_Tjay.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "The Plan",
+      "artist": "Low",
+      "has_synced": true,
+      "path": "select/21_The_Plan_Low.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Without a Plan",
+      "artist": "Lusine",
+      "has_synced": true,
+      "path": "select/22_Without_a_Plan_Lusine.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "The Plan",
+      "artist": "Nada Surf",
+      "has_synced": true,
+      "path": "select/23_The_Plan_Nada_Surf.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "The Plan",
+      "artist": "Built to Spill",
+      "has_synced": false,
+      "path": "select/24_The_Plan_Built_to_Spill.txt"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "The Plan",
+      "artist": "Wiz Khalifa feat. Juicy J",
+      "has_synced": false,
+      "path": "select/25_The_Plan_Wiz_Khalifa_feat._Juicy_J.txt"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Nothing Ever Goes To Plan",
+      "artist": "Danny Wilson",
+      "has_synced": false,
+      "path": "select/26_Nothing_Ever_Goes_To_Plan_Danny_Wilson.txt"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Plan B",
+      "artist": "Dexys Midnight Runners",
+      "has_synced": false,
+      "path": "select/27_Plan_B_Dexys_Midnight_Runners.txt"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Plan B",
+      "artist": "Huey Lewis and The News",
+      "has_synced": true,
+      "path": "select/28_Plan_B_Huey_Lewis_and_The_News.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Plan B - 2010 Remastered Version",
+      "artist": "Dexys Midnight Runners",
+      "has_synced": false,
+      "path": "select/29_Plan_B_-_2010_Remastered_Version_Dexys_Midnight_Runners.txt"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "A Long Term Plan",
+      "artist": "Acid House Kings",
+      "has_synced": false,
+      "path": "select/30_A_Long_Term_Plan_Acid_House_Kings.txt"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "Paper Plan",
+      "artist": "Grace Jones",
+      "has_synced": false,
+      "path": "select/31_Paper_Plan_Grace_Jones.txt"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "Plan B",
+      "artist": "AJ Tracey",
+      "has_synced": false,
+      "path": "select/32_Plan_B_AJ_Tracey.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Plan A",
+      "artist": "Watson",
+      "has_synced": false,
+      "path": "select/pl_01_Plan_A_Watson.txt"
+    }
+  ]
+}
